@@ -63,8 +63,6 @@ Let's collaborate to unlock the full potential.
 <a href="https://wemasudi.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/we-masudi/we-masudi/d3d07a2912ce2e9b69087d283eb4c6c8a04b30b5/hashnode.svg" width="32" height="32" />
 <a href="https://medium.com/@wemasudi" target="_blank" rel="noreferrer"><img alt="we-masudi medium" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/we-masudi" target="_blank" rel="noreferrer"><img alt="we-masudi linkedin" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://dribbble.com/we-masudi" target="_blank" rel="noreferrer"><img alt="we-masudi dribble" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Dribbble.svg" width="32" height="32" /></a>
-<a href="https://www.behance.net/wemasudi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Behance.svg" width="32" height="32" />
 <a href="https://www.facebook.com/f.wemasudi/" target="_blank" rel="noreferrer"><img alt="we-masudi facebook" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
 <a href="https://www.github.com/we-masudi" target="_blank" rel="noreferrer"><img alt="we-masudi github" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 </p>
