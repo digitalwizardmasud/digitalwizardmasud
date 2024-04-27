@@ -3,7 +3,7 @@
 
 <h3 style="color:#3f3e3e; font-weight:normal">👋 Welcome to  <span style="color:#5c5b5b; font-weight:600 ">We-Masudi</span> Space</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?weight=900&font=Roboto&size=30&duration=3000&pause=1000&color=1DBF73&random=false&width=500&lines=Expert+in+Frontend+Development;Expert+in+Backend+Development;Expert+in+Open+AI+;Expert+in+Web+Development;Expert++in+React+Js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?weight=900&font=Roboto&size=30&duration=3000&pause=1000&color=1DBF73&random=false&width=500&lines=Expert+in+Frontend+Development;Expert+in+Backend+Development;Expert+in+Open+AI+;Expert+in+Web+Development;Expert+in+React+JS;Expert+in+Next+JS)](https://git.io/typing-svg)
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=we-masudi&label=Profile%20views&color=0e75b6&style=flat" alt="we-masudi" /> </p>
 
