@@ -1,11 +1,11 @@
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
 
-<h3 style="color:#3f3e3e; font-weight:normal">👋 Welcome to  <span style="color:#5c5b5b; font-weight:600 ">We-Masudi</span> Space</h3>
+<h3 style="color:#3f3e3e; font-weight:normal">👋 Hi, I am <span style="color:#1b1b1b; font-weight:600 ">Digital Wizard Masud</span></h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?weight=900&font=Roboto&size=30&duration=3000&pause=1000&color=1DBF73&random=false&width=500&lines=Expert+in+Frontend+Development;Expert+in+Backend+Development;Expert+in+Open+AI+;Expert+in+Web+Development;Expert+in+React+JS;Expert+in+Next+JS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?weight=900&font=Roboto&size=30&duration=3000&pause=1000&color=1DBF73&random=false&width=500&lines=Expert+in+Frontend+Development;Expert+in+Backend+Development;Expert+in+Open+AI+;Expert+in+Web+Development;Expert++in+React+Js)](https://git.io/typing-svg)
 
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=we-masudi&label=Profile%20views&color=0e75b6&style=flat" alt="we-masudi" /> </p>
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=digitalwizardmasud&label=Profile%20views&color=0e75b6&style=flat" alt="digitalwizardmasud" /> </p>
 
 As a full-stack developer specializing in the MERN stack, expertise in React JS, Next JS MongoDB, Express, and Node.js. 
 My proficiency spans both front-end and back-end development with the capability to create and manage web applications comprehensively. I am strong in problem-solving and continually striving to enhance efficiency.
@@ -19,8 +19,8 @@ Let's collaborate to unlock the full potential.
 </div>
 
 * 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [we-masudi.com](https://we-masudi.com/)
-* ✉️  You can contact me at [masud.pro.121@gmail.com](mailto:we-masudi19@gmail.com)
+* 🖥️  See my portfolio at [digitalwizardmasud.com](https://digitalwizardmasud.com/)
+* ✉️  You can contact me at [masud.pro.121@gmail.com](mailto:masud.pro.121@gmail.com)
 * 🧠  I am learning for continuous growth and development. .
 * 🤝 I'm keen to join team and work together on projects or brainstorm new ideas. Don't hesitate to get in touch if you've got something exciting.
 <br/>
@@ -48,28 +48,24 @@ Let's collaborate to unlock the full potential.
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-
-<!-- 
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> -->
 </p>
 <br/>
 
 #### Socials
 <p align="left"> 
-<a href="https://dev.to/we-masudi" target="_blank" rel="noreferrer"><img alt="we-masudi dev.to" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
-<a href="https://wemasudi.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/we-masudi/we-masudi/d3d07a2912ce2e9b69087d283eb4c6c8a04b30b5/hashnode.svg" width="32" height="32" />
-<a href="https://medium.com/@wemasudi" target="_blank" rel="noreferrer"><img alt="we-masudi medium" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/we-masudi" target="_blank" rel="noreferrer"><img alt="we-masudi linkedin" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://www.facebook.com/f.wemasudi/" target="_blank" rel="noreferrer"><img alt="we-masudi facebook" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
-<a href="https://www.github.com/we-masudi" target="_blank" rel="noreferrer"><img alt="we-masudi github" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="https://dev.to/digitalwizardmasud" target="_blank" rel="noreferrer"><img alt="Digital Wizard Masud -  dev.to" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
+<a href="https://digitalwizardmasud.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/digitalwizardmasud/digitalwizardmasud/d3d07a2912ce2e9b69087d283eb4c6c8a04b30b5/hashnode.svg" alt="Digital Wizard Masud - Hashnode" width="32" height="32" />
+<a href="https://medium.com/@digitalwizardmasud" target="_blank" rel="noreferrer"><img alt="Digital Wizard Masud - medium" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/digitalwizardmasud" target="_blank" rel="noreferrer"><img alt="Digital Wizard Masud - linkedin" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="https://dribbble.com/digitalwizardmasud" target="_blank" rel="noreferrer"><img alt="Digital Wizard Masud - dribble" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Dribbble.svg" width="32" height="32" /></a>
+<a href="https://www.behance.net/digitalwizardmasud" target="_blank" rel="noreferrer"><img alt="Digital Wizard Masud - behance" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Behance.svg" width="32" height="32" />
+<a href="https://www.facebook.com/digitalwizardmasud" target="_blank" rel="noreferrer"><img alt="Digital Wizard Masud - facebook" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/digitalwizardmasud" target="_blank" rel="noreferrer"><img alt="Digital Wizard Masud - github" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 </p>
 
 
 <br/>
-<a href="http://www.github.com/we-masudi"><img src="https://github-readme-stats.vercel.app/api?username=we-masudi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="we-masudi's GitHub stats" /></a>
+<a href="http://www.github.com/digitalwizardmasud"><img src="https://github-readme-stats.vercel.app/api?username=digitalwizardmasud&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="digitalwizardmasud's GitHub stats" /></a>
 
-<a href="http://www.github.com/we-masudi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=we-masudi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/digitalwizardmasud"><img src="https://github-readme-streak-stats.herokuapp.com/?user=digitalwizardmasud&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
