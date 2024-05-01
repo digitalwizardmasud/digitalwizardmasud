@@ -7,10 +7,7 @@
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=digitalwizardmasud&label=Profile%20views&color=0e75b6&style=flat" alt="digitalwizardmasud" /> </p>
 
-As a full-stack developer specializing in the MERN stack, expertise in React JS, Next JS MongoDB, Express, and Node.js. 
-My proficiency spans both front-end and back-end development with the capability to create and manage web applications comprehensively. I am strong in problem-solving and continually striving to enhance efficiency.
-I specialize in building custom solutions tailored to your unique needs.
-Let's collaborate to unlock the full potential.
+I am a full-stack developer specializing in the MERN stack, with expertise in React JS, Next JS, MongoDB, Express, and Node js. My proficiency spans both front-end and back-end development, with the capability to create and manage modern web applications comprehensively. I am strong at problem-solving and continuously strive to enhance efficiency. I will build custom solutions tailored to your unique needs. Let's collaborate to unlock our full potential.
 
 
 
