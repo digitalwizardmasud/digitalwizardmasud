@@ -1,9 +1,8 @@
-![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
 
 <h3 style="color:#3f3e3e; font-weight:normal">👋 Hi, I am <span style="color:#1b1b1b; font-weight:600 ">Digital Wizard Masud</span></h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?weight=900&font=Roboto&size=30&duration=3000&pause=1000&color=1DBF73&random=false&width=500&lines=Expert+in+Frontend+Development;Expert+in+Backend+Development;Expert+in+Open+AI+;Expert+in+Web+Development;Expert++in+React+Js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?weight=900&font=Roboto&size=30&duration=3000&pause=1000&color=1DBF73&random=false&width=500&lines=Expert+in+Full-Stack+Development;Expert+in+AI+Development+;Expert+in+Python;Expert++in+Javascript)](https://git.io/typing-svg)
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=digitalwizardmasud&label=Profile%20views&color=0e75b6&style=flat" alt="digitalwizardmasud" /> </p>
 
