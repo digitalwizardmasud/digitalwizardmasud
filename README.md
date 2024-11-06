@@ -7,8 +7,8 @@
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=digitalwizardmasud&label=Profile%20views&color=0e75b6&style=flat" alt="digitalwizardmasud" /> </p>
 
-I am a full-stack developer specializing in the MERN stack, with expertise in React JS, Next JS, MongoDB, Express, and Node js. My proficiency spans both front-end and back-end development, with the capability to create and manage modern web applications comprehensively. I am strong at problem-solving and continuously strive to enhance efficiency. I will build custom solutions tailored to your unique needs. Let's collaborate to unlock our full potential.
-
+Professional Full Stack Web Developer with expertise in custom website development, AI integration, web animation, and responsive design. I have been actively working as a web developer since 2020.
+I have expertise in both Frontend and Backend, with top skills in JavaScript, Node.js, React.js, Next.js, Python, Flask, Tailwind CSS, Langchain, AI, etc.
 
 
 <div style="padding-top:50px; margin-left:40px">
@@ -33,6 +33,9 @@ I am a full-stack developer specializing in the MERN stack, with expertise in R
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg" height="36" alt="Langchain" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -53,9 +56,7 @@ I am a full-stack developer specializing in the MERN stack, with expertise in R
 <a href="https://dev.to/digitalwizardmasud" target="_blank" rel="noreferrer"><img alt="Digital Wizard Masud -  dev.to" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
 <a href="https://digitalwizardmasud.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/digitalwizardmasud/digitalwizardmasud/d3d07a2912ce2e9b69087d283eb4c6c8a04b30b5/hashnode.svg" alt="Digital Wizard Masud - Hashnode" width="32" height="32" />
 <a href="https://medium.com/@digitalwizardmasud" target="_blank" rel="noreferrer"><img alt="Digital Wizard Masud - medium" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/digitalwizardmasud" target="_blank" rel="noreferrer"><img alt="Digital Wizard Masud - linkedin" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://dribbble.com/digitalwizardmasud" target="_blank" rel="noreferrer"><img alt="Digital Wizard Masud - dribble" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Dribbble.svg" width="32" height="32" /></a>
-<a href="https://www.behance.net/digitalwizardmasud" target="_blank" rel="noreferrer"><img alt="Digital Wizard Masud - behance" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Behance.svg" width="32" height="32" />
+<a href="https://www.linkedin.com/in/dwmasud" target="_blank" rel="noreferrer"><img alt="Digital Wizard Masud - linkedin" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 <a href="https://www.facebook.com/digitalwizardmasud" target="_blank" rel="noreferrer"><img alt="Digital Wizard Masud - facebook" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
 <a href="https://www.github.com/digitalwizardmasud" target="_blank" rel="noreferrer"><img alt="Digital Wizard Masud - github" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 </p>
